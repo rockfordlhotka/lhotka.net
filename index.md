@@ -1,3 +1,7 @@
+---
+title: Rockford Lhotka
+---
+
 Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, and speaker.
 
 You can find my bio and contact information on my [about.me page](https://about.me/rockfordlhotka).
