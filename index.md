@@ -1,41 +1,22 @@
-# Rockford Lhotka
+Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, and speaker.
 
-Hello world!
+You can find my bio and contact information on my [about.me page](https://about.me/rockfordlhotka).
 
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/rockfordlhotka/lhotka.net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've been a creator and contributor in the open source world since the mid-1990's. Here are some of the projects I'm involved in:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [CSLA .NET](https://cslanet.com)
+* [Humanitarian Toolbox](https://htbox.com)
 
-### Markdown
+I use the [GitHub Sponsors program](https://github.com/sponsors/rockfordlhotka) to enable folks to support my CSLA .NET open source work. Thank you very much to those who sponsor this work, you make a big difference!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Speaking
 
-```markdown
-Syntax highlighted code block
+I speak at events around the world, including [VS Live](https://vslive.com) and many others.
 
-# Header 1
-## Header 2
-### Header 3
+My [speaker profile on sessionize](https://sessionize.com/rockfordlhotka/) includes information about the topics I am focused on at the moment.
 
-- Bulleted
-- List
+## Publications
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rockfordlhotka/lhotka.net/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I've written many books over the years, along with articles, [blog posts](https://blog.lhotka.net), and other content. In recent years I've been publishing books and videos in PDF format, and they are available from the [CSLA .NET store](https://store.lhotka.net).
