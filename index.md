@@ -11,7 +11,7 @@ You can find my bio and contact information on my [about.me page](https://about.
 I've been a creator and contributor in the open source world since the mid-1990's. Here are some of the projects I'm involved in:
 
 * [CSLA .NET](https://cslanet.com)
-* [Humanitarian Toolbox](https://htbox.com)
+* [Humanitarian Toolbox](https://htbox.org)
 
 I use the [GitHub Sponsors program](https://github.com/sponsors/rockfordlhotka) to enable folks to support my CSLA .NET open source work. Thank you very much to those who sponsor this work, you make a big difference!
 
