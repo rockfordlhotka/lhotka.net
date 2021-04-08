@@ -2,9 +2,11 @@
 title: Rockford Lhotka
 ---
 
-![Rocky](images/favicon-96x96.png) Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, speaker, and CTO.
+[Blog](https://blog.lhotka.net) | [Bio and Contact](https://about.me/rockfordlhotka) | [CSLA .NET](https://cslanet.com) | [CSLA Store](https://store.lhotka.net)
 
-[Rocky's Blog](https://blog.lhotka.net) | [Bio and Contact](https://about.me/rockfordlhotka) | [CSLA .NET](https://cslanet.com) | [CSLA Store](https://store.lhotka.net)
+---
+
+![Rocky](images/favicon-96x96.png) Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, speaker, and CTO.
 
 ## Projects
 
