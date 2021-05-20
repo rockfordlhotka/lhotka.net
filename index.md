@@ -41,4 +41,4 @@ I am involved in my community:
 * [Missing Children Minnesota](http://missingchildrenmn.com/)
 * [Eden Prairie Optimist Club](https://www.facebook.com/EPOptimists)
 
-I work at [Cognizant Softvision](https://www.cognizantsoftvision.com/).
+I work at [Cognizant Softvision](https://www.cognizantsoftvision.com/) as CTO of Magenic Studios, and as a global Guild Leader.
