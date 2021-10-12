@@ -4,7 +4,9 @@ title: Rockford Lhotka
 
 ![Rocky](images/favicon-96x96.png)
 
-Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, speaker, and CTO.
+Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, and speaker.
+
+I am a CTO and Engineering Guild Leader at [Cognizant Softvision](https://www.cognizantsoftvision.com/).
 
 ## Projects
 
@@ -40,5 +42,3 @@ I am involved in my community:
 
 * [Missing Children Minnesota](http://missingchildrenmn.com/)
 * [Eden Prairie Optimist Club](https://www.facebook.com/EPOptimists)
-
-I work at [Cognizant Softvision](https://www.cognizantsoftvision.com/) as CTO of Magenic Studios, and as a global Guild Leader.
