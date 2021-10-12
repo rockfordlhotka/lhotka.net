@@ -31,6 +31,8 @@ In recent years I've been publishing books and videos in PDF format, and they ar
 
 I have a page with [many of the book covers](books.md) from over the years.
 
+I started blogging in Feburary 2004, and switched blog hosts in 2018 or 2019. The 2004-2018 blog posts are in the [lhotka.net/weblog archive](https://lhotka.net/weblog/index.html).
+
 ## Affiliations
 
 I am a member of the Microsoft community:
