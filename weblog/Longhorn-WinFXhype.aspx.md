@@ -4,8 +4,6 @@ postDate: 2004-02-05T14:20:56.8125-06:00
 abstract: Are WinFX and XAML going to provide a common programming model for Windows and the web? Rockford Lhotka doesn't think so.
 postStatus: publish
 ---
-
-# Longhorn/WinFX hype
 <font size="4"><strong>A</strong></font>fter all the cool WinFX demos at the PDC there's been a lot of speculation about what WinFX and XAML (the XML dialect used to describe forms for WinFX) mean to all of us. One thing I've heard time and time again is that XAML represents a common programming model for Windows and the web.
 
 You can take this concept two ways.
