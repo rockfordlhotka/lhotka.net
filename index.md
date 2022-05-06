@@ -4,9 +4,9 @@ title: Rockford Lhotka
 
 ![Rocky](images/favicon-96x96.png)
 
-Hello, I'm Rocky Lhotka, distributed software architect, open source contributor, author, and speaker.
+Hello, I'm Rocky Lhotka, software architect, open source contributor, author, and speaker.
 
-I am a CTO and Engineering Guild Leader at [Cognizant Softvision](https://www.cognizantsoftvision.com/).
+I am Chief Software Architect at Marimer LLC.
 
 ## Projects
 
