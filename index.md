@@ -6,7 +6,19 @@ title: Rockford Lhotka
 
 Hello, I'm Rocky Lhotka, software architect, open source contributor, author, and speaker.
 
-I am Chief Software Architect at Marimer LLC.
+I am VP of Strategy for [Xpirit](https://xpirit.com/) USA and Chief Software Architect at [Marimer LLC](https://cslanet.com).
+
+## Talk to me about
+
+[Xpirit](https://xpirit.com/) - a premier provider of cloud-native development, migration, and devops consulting services. We focus on Azure, GitHub, and .NET.
+
+[Marimer LLC](https://cslanet.com) - where I provide training, mentoring, and related services for those using CSLA .NET.
+
+## Find me at
+
+* Mastodon: [@rockylhotka@fosstodon.org](https://fosstodon.org/@rockylhotka)
+* GitHub: [rockfordlhotka](https://github.com/rockfordlhotka)
+* about.me: [Rockford Lhotka](https://about.me/rockfordlhotka)
 
 ## Projects
 
