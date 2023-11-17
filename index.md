@@ -6,11 +6,11 @@ title: Rockford Lhotka
 
 Hello, I'm Rocky Lhotka, software architect, open source contributor, author, and speaker.
 
-I am VP of Strategy for [Xebia|Xpirit](https://xpirit.com/) USA and Chief Software Architect at [Marimer LLC](https://cslanet.com).
+I am VP of Strategy for [Xebia-Xpirit](https://xpirit.com/) USA and Chief Software Architect at [Marimer LLC](https://cslanet.com).
 
 ## Talk to me about
 
-[Xebia|Xpirit](https://xpirit.com/) - a premier provider of cloud-native development, migration, and devops consulting services. We focus on Azure, GitHub, and .NET.
+[Xebia-Xpirit](https://xpirit.com/) - a premier provider of cloud-native development, migration, and devops consulting services. We focus on Azure, GitHub, and .NET.
 
 [Marimer LLC](https://cslanet.com) - where I provide consulting, training, mentoring, and related services for those using CSLA .NET.
 
