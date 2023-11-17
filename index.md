@@ -6,19 +6,21 @@ title: Rockford Lhotka
 
 Hello, I'm Rocky Lhotka, software architect, open source contributor, author, and speaker.
 
-I am VP of Strategy for [Xpirit](https://xpirit.com/) USA and Chief Software Architect at [Marimer LLC](https://cslanet.com).
+I am VP of Strategy for [Xebia|Xpirit](https://xpirit.com/) USA and Chief Software Architect at [Marimer LLC](https://cslanet.com).
 
 ## Talk to me about
 
-[Xpirit](https://xpirit.com/) - a premier provider of cloud-native development, migration, and devops consulting services. We focus on Azure, GitHub, and .NET.
+[Xebia|Xpirit](https://xpirit.com/) - a premier provider of cloud-native development, migration, and devops consulting services. We focus on Azure, GitHub, and .NET.
 
-[Marimer LLC](https://cslanet.com) - where I provide training, mentoring, and related services for those using CSLA .NET.
+[Marimer LLC](https://cslanet.com) - where I provide consulting, training, mentoring, and related services for those using CSLA .NET.
+
+If you'd like to engage me for CSLA .NET consulting please reach out to me using the information in my Link tree (listed below).
 
 ## Find me at
 
 * Mastodon: [@rockylhotka@fosstodon.org](https://fosstodon.org/@rockylhotka)
 * GitHub: [rockfordlhotka](https://github.com/rockfordlhotka)
-* about.me: [Rockford Lhotka](https://about.me/rockfordlhotka)
+* Link tree: [Rockford Lhotka](https://linktr.ee/rockylhotka)
 
 ## Projects
 
@@ -41,7 +43,7 @@ I've written many books over the years, along with articles, [blog posts](https:
 
 In recent years I've been publishing books and videos in PDF format, and they are available from the [CSLA .NET store](https://store.lhotka.net).
 
-I have a page with [many of the book covers](books.md) from over the years.
+I have a page with [some of the book covers](books.md) from over the years.
 
 I started blogging in Feburary 2004, and switched blog hosts in 2018 or 2019. The 2004-2018 blog posts are in the [lhotka.net/weblog archive](https://lhotka.net/weblog/index.html).
 
