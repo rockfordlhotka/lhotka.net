@@ -39,7 +39,7 @@ My [speaker profile on sessionize](https://sessionize.com/rockfordlhotka/) inclu
 
 ## Publications
 
-I've written many books over the years, along with articles, [blog posts](https://blog.lhotka.net), and other content. 
+I've written many books over the years, along with articles, [blog posts](https://blog.lhotka.net), and other content.
 
 In recent years I've been publishing books and videos in PDF format, and they are available from the [CSLA .NET store](https://store.lhotka.net).
 
